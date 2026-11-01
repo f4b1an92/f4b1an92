@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Fabian Stork
+💼 Senior Data Analyst | 🎓 M.Sc. Business Administration | 💡 Predictive Modelling & ML | 📈 Risk Analytics
 
-<!--
-**f4b1an92/f4b1an92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Senior Data Analyst with 5+ years of experience solving complex analytical problems in fintech, with a focus on credit and fraud risk and an academic background in business administration and data science.  
 
-Here are some ideas to get you started:
+I enjoy uncovering patterns in data, turning them into actionable recommendations, and building analytical solutions that make those insights scalable and useful. My work has ranged from designing experimentation frameworks and evaluating risk models to developing forecasting solutions and productionizing complex analytical processes.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+**Languages:** Python, SQL, R
+**Data Manipulation & Visualization:** numpy, Pandas, seaborn/Plotly
+**Predictive Modelling / ML:** Nixtla, scikit-learn, PyTorch
+**Tools:** GitHub, Snowflake, dbt, Airflow, Tableau, AWS
+---
