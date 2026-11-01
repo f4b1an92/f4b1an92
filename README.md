@@ -12,4 +12,5 @@ I enjoy uncovering patterns in data, turning them into actionable recommendation
 **Data Manipulation & Visualization:** numpy, Pandas, seaborn/Plotly
 **Predictive Modelling / ML:** Nixtla, scikit-learn, PyTorch
 **Tools:** GitHub, Snowflake, dbt, Airflow, Tableau, AWS
+
 ---
